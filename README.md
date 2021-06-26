@@ -5,5 +5,3 @@ This is a [Next.js](https://nextjs.org/) starter project that adds [Tachyons](ht
 ```
 npx create-next-app -e https://github.com/dperrera/next-tachyons-starter
 ```
-
-# next-tachyons-starter
